@@ -31,7 +31,7 @@
 
 <p align="center">
   <h2>Social Media</h2>
-<img src="https://blog.sympla.com.br/wp-content/uploads/2018/11/Morpheus_come_at_me_bro-1.gif" align="right" width="550 " height="256">
+<img src="https://blog.sympla.com.br/wp-content/uploads/2018/11/Morpheus_come_at_me_bro-1.gif" align="right" width="400 " height="230">
 <br>
 <p align="center">Here are some of my most used Social Media</p>
 
