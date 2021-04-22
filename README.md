@@ -32,7 +32,6 @@
 <p align="center">
   <h2>Social Media</h2>
 <br>
-<p align="center">Here are some of my most used Social Media</p>
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/thiago-cardoso/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/thiagoscardoso)
