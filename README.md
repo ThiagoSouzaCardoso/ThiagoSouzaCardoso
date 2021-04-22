@@ -31,7 +31,6 @@
 
 <p align="center">
   <h2>Social Media</h2>
-<img src="https://blog.sympla.com.br/wp-content/uploads/2018/11/Morpheus_come_at_me_bro-1.gif" align="right" width="400 " height="230">
 <br>
 <p align="center">Here are some of my most used Social Media</p>
 
@@ -39,4 +38,6 @@
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/thiagoscardoso)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/thiago-souza-cardoso/badges)
 
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+
+<h1 align="center">_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_</h1>
+
