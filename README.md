@@ -38,8 +38,10 @@
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/thiagoscardoso)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/thiago-souza-cardoso/badges)
 
-
-<h1 align="center">_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_</h1>
-
 <img src="https://blog.sympla.com.br/wp-content/uploads/2018/11/Morpheus_come_at_me_bro-1.gif" align="center" width="640 " height="256">
+
+
+_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+
+
 
