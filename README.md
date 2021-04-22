@@ -35,6 +35,7 @@
 <br>
 <p align="center">Here are some of my most used Social Media</p>
 <p align="center"><a href="https://twitter.com/thiagoscardoso" target="_blank"><img src="https://img.shields.io/badge/Thiago Cardoso%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/thiago-cardoso/" target="_blank"><img src="https://img.shields.io/badge/Thiago Cardoso%20-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
