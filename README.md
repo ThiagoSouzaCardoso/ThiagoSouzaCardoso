@@ -13,7 +13,7 @@
 - 📫 How to reach me **thiagocardosok@gmail.com**
 
 - ⚡ Fun fact **I love Programming, Software Architecture, Rock and Cats 😻**
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Tools that I Use</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> 
