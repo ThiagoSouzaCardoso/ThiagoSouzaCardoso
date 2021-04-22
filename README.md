@@ -34,10 +34,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" align="right" width="200 " height="200">
 <br>
 <p align="center">Here are some of my most used Social Media</p>
-<p align="center"><a href="https://twitter.com/thiagoscardoso" target="_blank"><img src="https://img.shields.io/badge/Thiago Cardoso%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.linkedin.com/in/thiago-cardoso/" target="_blank"><img src="https://img.shields.io/badge/Thiago Cardoso%20-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
+
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/thiago-cardoso/)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/thiagoscardoso)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.credly.com/users/thiago-souza-cardoso/badges)
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
