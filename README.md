@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Thiago Souza Cardoso 👋</h1>
+<h1 align="center">Thiago Souza Cardoso</h1>
 
 <p align="center">
-  Backend Engineer focused on building reliable and maintainable systems
+  Backend Engineer focused on building reliable, maintainable and scalable systems
 </p>
 
 <p align="center">
@@ -22,45 +22,46 @@
 
 ---
 
-## What I care about
-- Designing backend systems that are **easy to reason about and hard to break**.
-- Writing code that **survives time, scale, and team growth**.
-- Balancing **clean architecture** with **pragmatic delivery**.
-- Making trade-offs explicit instead of hiding complexity.
+## Professional summary
+Backend engineer with experience in systems where **availability, data integrity and evolution over time** are critical.  
+I work close to the business domain, translating requirements into **clear technical boundaries** and **predictable solutions**.
 
-## How I usually work
-- Start from **problem and constraints**, not tools.
-- Prefer **explicit boundaries** over magic.
-- Value **tests, observability and failure scenarios**.
-- Keep systems **boring, predictable and readable**.
+My focus is on building software that remains **understandable, testable and operable** as teams and systems grow.
+
+## Engineering principles
+- Prefer **explicit design** over hidden conventions.
+- Treat architecture as a **tool for clarity**, not as an end in itself.
+- Design for **failure, observability and change**.
+- Optimize for **long-term maintenance**, not short-term speed.
+
+## How I approach problems
+- Start from **constraints and trade-offs**, not from frameworks.
+- Break complex flows into **small, well-defined responsibilities**.
+- Make decisions visible and easy to revisit.
+- Keep systems boring, predictable and resilient.
+
+## Areas of interest
+- Backend architecture and design
+- Distributed systems and asynchronous communication
+- Cloud-native and containerized environments
+- Code quality, testing strategies and observability
 
 ## Tech stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="32"/>
-</p>
-
-## Currently interested in
-- Distributed systems & messaging
-- Cloud-native patterns
-- Software architecture & design
-- Engineering productivity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSouzaCardoso&show_icons=true&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoSouzaCardoso" height="165"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="30"/>
 </p>
 
 <details>
   <summary><b>Personal</b></summary>
 
-- Enjoy technical discussions and mentoring.
-- Rock 🤘, cats 😺 and well-designed software.
+- I enjoy technical discussions, mentoring and knowledge sharing.
+- Outside work: Rock 🤘, cats 😺 and well-designed software.
 
 </details>
